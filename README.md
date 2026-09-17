@@ -24,3 +24,6 @@ https://jihulab.com/kgsp/tv/raw/box/666.json
 https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json
 
 https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg
+
+壁纸
+https://饭的动态壁纸.xxooo.cf/
