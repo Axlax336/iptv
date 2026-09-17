@@ -9,6 +9,11 @@ http://影视仓.com/
 
 http://www.饭太硬.net/tv
 
+https://9877.kstore.space/sun.json
+
+https://cyao2q.github.io/files/xs.json
+
+
 https://gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/tbs.json
 
 https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
@@ -24,6 +29,12 @@ https://jihulab.com/kgsp/tv/raw/box/666.json
 https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json
 
 https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg
+
+https://www.iyouhun.com/tv/nf
+
+https://www.iyouhun.com/tv/lns
+
+https://www.iyouhun.com/tv/wex
 
 壁纸
 https://饭的动态壁纸.xxooo.cf/
