@@ -1,17 +1,17 @@
 # iptv
 影视仓库收集(更新2026.09.17)
 
-http://124.223.214.31:16/8888
+http://124.223.214.31:16/8888  （推荐 1080P，速度快）
 
-http://fty.888484.xyz/tv
+http://fty.888484.xyz/tv     （推荐直播）
 
 http://影视仓.com/
 
 http://www.饭太硬.net/tv
 
-https://9877.kstore.space/sun.json
+https://9877.kstore.space/sun.json 
 
-https://cyao2q.github.io/files/xs.json
+https://cyao2q.github.io/files/xs.json （推荐，含综艺内容，速度快）
 
 
 https://gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/tbs.json
