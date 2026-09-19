@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://192.168.1.178:8080/epg/epg.gz"
+#EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml.gz"
 
 # ===== 📺央视频道 =====
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
