@@ -1,11 +1,19 @@
 # iptv
 影视仓库收集(更新2026.09.17)
 
+（推荐直播）
+
+http://fty.888484.xyz/tv
+http://38.75.136.137:88/api/tvlist.php
+https://www.iyouhun.com/tv/hotel_tvn.m3u
+
+点播
+
 http://124.223.214.31:16/8888  （推荐 1080P，速度快）
 
-http://fty.888484.xyz/tv     （推荐直播）
-
 https://cyao2q.github.io/files/xs.json （推荐，含综艺内容，速度快）
+
+https://gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/tbs.json （土拨鼠）
 
 http://www.饭太硬.net/tv
 
@@ -43,4 +51,7 @@ https://www.iyouhun.com/tv/wex
 
 
 壁纸
+
+https://深色壁纸.xxooo.cf/
 https://饭的动态壁纸.xxooo.cf/
+https://t.alcy.cc/fj
