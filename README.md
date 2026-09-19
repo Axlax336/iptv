@@ -9,7 +9,18 @@ http://38.75.136.137:88/api/tvlist.php
 
 https://www.iyouhun.com/tv/hotel_tvn.m3u
 
-点播
+
+节目单
+
+https://epg.aptv.app/
+
+https://epg.aptv.app/pp.xml.gz
+
+https://epg.zsdc.eu.org/t.xml.gz
+
+http://epg.51zmt.top:8000/e.xml.gz
+
+影视订阅
 
 http://124.223.214.31:16/8888  （推荐 1080P，速度快）
 
